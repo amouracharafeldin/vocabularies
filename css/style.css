@@ -1,0 +1,27 @@
+body{
+    background-color: #282a36;
+}
+.table{
+    margin-top: 100px;
+    width: 80%;
+    direction: rtl;
+}
+.img-table{
+    width: 150px;
+    height: 150px;
+    border-radius: 5px;
+    background-size: cover;
+}
+.bi{
+    font-size: 40px;
+}
+.add-btn{
+    font-size: 280px;
+    color: white;
+}
+.hover{
+    transition: 0.7s scale ease;
+}
+.hover:hover{
+    scale: 1.2;
+}
