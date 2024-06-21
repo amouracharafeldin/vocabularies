@@ -1,0 +1,13 @@
+body{
+    background-color: #282a36;
+}
+.add-btn{
+    font-size: 200px;
+    color: white;
+}
+.hover{
+    transition: 0.7s scale ease;
+}
+.hover:hover{
+    scale: 1.2;
+}
